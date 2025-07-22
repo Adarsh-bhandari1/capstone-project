@@ -26,3 +26,9 @@ nav li {
     margin-right: 20px;
     transition: background 0.3s, transform 0.2s, color 0.2s;
 }
+
+nav li:hover {
+    background-color: #ede7f6;;
+    transform: scale(1.05);
+    border-radius: 8px;
+}
